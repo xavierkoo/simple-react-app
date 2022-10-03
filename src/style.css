@@ -1,0 +1,25 @@
+.card {
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    margin:auto;
+    }
+
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
+
+.select {
+    background-color: darkblue;
+    color: white;
+    margin: 0.5em;
+}
