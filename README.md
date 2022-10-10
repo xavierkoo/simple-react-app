@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Simple React App
+
+Simple react app that uses the Unsplash API to display images.
+
+Deployed on Netlify: https://image-gallery-app123.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
