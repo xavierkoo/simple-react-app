@@ -1,6 +1,6 @@
 # Simple React App
 
-Simple react app that uses the Unsplash API to display images.
+Simple React app that uses the Unsplash API to display images.
 
 Deployed on Netlify: https://image-gallery-app123.netlify.app/
 
