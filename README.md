@@ -1,6 +1,8 @@
 # Simple React App
 TLDR: React app that uses the Unsplash API to display certain images based on the button that is pressed.
 
+Deployed on: https://image-gallery-app123.netlify.app/
+
 ## Tech Stack 
 * Frontend - React.js
 
